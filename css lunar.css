@@ -1,5 +1,8 @@
 body, html {height: 100%; padding: 0px; margin: 0px} 
 body {font-size: 3vw} 
+div {
+  background-image: url(http://i68.tinypic.com/x5o7m9.jpg);
+}
 .a {background-color: blue;} 
 .b {background-color: red;} 
 .c {background- color: green;} 
